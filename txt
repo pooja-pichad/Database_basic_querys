@@ -1,0 +1,13 @@
+what is field in mysql 
+== filed is data structure for a single piece of data filed used for organized the record in like column
+
+attribute:= attribute is an identify piece of information that servers to define further and expand the primary key
+
+record :-in a computer data proccesssing a record is a collection of data items arranged for by proccesing by a program
+
+query:-query is any command that used to retrive the data from a table
+
+table:-
+a tables used to organized data in the from of rows and column and used storing and displaying record
+
+login singup:
